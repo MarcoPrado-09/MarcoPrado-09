@@ -84,10 +84,16 @@
   </tr>
 </table>
 
-#### Contribuições
+### GitHub Stats
 
 <a href="https://github.com/MarcoPrado-09?tab=repositories">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcoPrado-09&theme=omni"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoPrado-09&theme=github_dark" />
+</a>
+
+### Contribuições
+
+<a href="https://github.com/MarcoPrado-09?tab=repositories">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcoPrado-09&theme=github-dark-blue"/>
 </a>
 
 ### Contato
